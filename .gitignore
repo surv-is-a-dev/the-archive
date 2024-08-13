@@ -1,0 +1,8 @@
+# Build files
+build
+
+# Linux Mint Drive Trash files
+.Trash*
+
+# VSCode settings
+.vscode
