@@ -2,11 +2,9 @@
 
 This is a giant archive of a lot of extensions from many users.
 
-If your file is on here then it is confirmed to be open source, if not read [note 1].
+If your file is on here then it is confirmed to be open source, if not read [1].
 
 Currently we are not open to contributing just yet, check back later if you would like to contribute.
-
-For licensing please read [LICENSE.md]
 
 #### Notes
 
