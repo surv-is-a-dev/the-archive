@@ -1,8 +1,14 @@
 # Build files
 build
 
-# Linux Mint Drive Trash files
-.Trash*
-
-# VSCode settings
+# Editor configs
 .vscode
+.idea
+*.sublime-workspace
+
+# Various operating system files
+.Trash-*
+.DS_Store
+thumbs.db
+System Volume Information
+$RECYCLE.BIN
