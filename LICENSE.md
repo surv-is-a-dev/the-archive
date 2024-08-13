@@ -1,6 +1,6 @@
 # Licensing of the built kit and website
 
-All files in the "kit" and "build" directory(s) and their subsequent files are licensed under [AGPL-2.0](LICENSES/APGL-2.0.txt).
+All files in the "kit" and "build" directory(s) and their subsequent files are licensed under [AGPL-3.0](LICENSES/APGL-3.0.txt).
 
 # Licensing of the archived files
 
